@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/matiishyn/node.js-learning#readme",
   "dependencies": {
+    "express": "^4.15.4",
     "mime": "^1.3.6"
   }
 }
