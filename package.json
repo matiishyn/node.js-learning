@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/matiishyn/node.js-learning/issues"
   },
-  "homepage": "https://github.com/matiishyn/node.js-learning#readme"
+  "homepage": "https://github.com/matiishyn/node.js-learning#readme",
+  "dependencies": {
+    "mime": "^1.3.6"
+  }
 }
